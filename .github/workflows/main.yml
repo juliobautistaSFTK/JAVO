@@ -44,10 +44,4 @@ jobs:
           name: target
           path: target
 
-      - name: Step 7 - Download a Build Artifact
-        uses: actions/download-artifact@v3.0.2
-        with:
-          # Artifact name
-          name: target
-          # Destination path
-          path: ./target
+   
