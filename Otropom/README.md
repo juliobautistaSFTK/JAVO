@@ -6,3 +6,4 @@ Mediante los Actions de GitHub se generan los artefactos del proyecto .jar y pos
 Nota:
 Estamos en fase de construcción.
 para ejecutar por la modificación cd parte de la rama
+se incorporó cambiode directorio en el yaml

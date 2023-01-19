@@ -7,3 +7,4 @@ Nota:
 Estamos en fase de construcción. 
 
 Modificado para validar que no dispate el action por que esta configurado que solo se actie cuando modifico el directorio Otropom
+se incorporó cambiode directorio en el yaml
