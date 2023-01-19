@@ -66,5 +66,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKER_REPO }}/javotest1:latest
+          tags: ${{ secrets.DOCKER_REPO }}/javotest:latest
       #Agrege user, pass y repo de dockerhub
