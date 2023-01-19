@@ -5,3 +5,5 @@ Mediante los Actions de GitHub se generan los artefactos del proyecto .jar y pos
 
 Nota:
 Estamos en fase de construcción. 
+
+Modificado para validar que no dispate el action por que esta configurado que solo se actie cuando modifico el directorio Otropom
