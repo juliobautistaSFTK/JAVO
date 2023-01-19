@@ -4,4 +4,4 @@ Mediante los Actions de GitHub se generan los artefactos del proyecto .jar y pos
 
 
 Nota:
-Estamos en fase de construcción.
+Estamos en fase de construcción. 
