@@ -2,8 +2,8 @@ name: GitHub Actions Maven Build Example
 
 on:
   push:
-    branches: [main]
-
+    paths:
+    - 'Otropom/**'
 
 jobs:
   # This workflow contains a single job called "build"
