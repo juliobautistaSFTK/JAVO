@@ -18,7 +18,7 @@ public class UserController {
 	
 	@GetMapping(path = "/user/info")
 	public String getUsers() {
-		return "Mediante este endPoint se obtiene información de los user";
+		return "Mediante este endPoint se obtiene información de los user.";
 	}
 	
 	@GetMapping(path = "/list-user", produces = "application/json")
