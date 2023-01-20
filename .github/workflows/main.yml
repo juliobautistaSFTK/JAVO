@@ -32,7 +32,7 @@ jobs:
         run: |
            mvn -B package --file Otropom/pom.xml
            pwd
-           ls -l
+           ls -lta | grep "target"
            
         # run: mvn --batch-mode --update-snapshots verify
         # run: mvn install --file pom.xml
