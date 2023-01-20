@@ -63,7 +63,7 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
           
       - name: Step 4 - Ruta del directorio
-        run:  tree /home/runner/work/JAVO
+        run:  tree /home/runner/work/JAVO/JAVO/Otropom
           
       -
         name: Build and push
