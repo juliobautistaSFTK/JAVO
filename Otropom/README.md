@@ -12,3 +12,5 @@ pwd para target y ls
 /home/runner/work/JAVO/JAVO/Otropom/target
 /home/runner/work/JAVO/JAVO/Otropom/target dentro del Dockerfile  
 
+ls -lta /home/runner/work/JAVO
+
