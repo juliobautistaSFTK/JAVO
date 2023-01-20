@@ -63,7 +63,7 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
           
       - name: Step 4 - Ruta del directorio
-        run:  ls -lta /home/runner/work/JAVO
+        run:  ls -ltar /home/runner/work/JAVO
           
       -
         name: Build and push
