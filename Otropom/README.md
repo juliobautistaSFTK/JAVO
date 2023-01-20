@@ -14,4 +14,5 @@ pwd para target y ls
 
 ls -lta /home/runner/work/JAVO
 ls -ltar /home/runner/work/JAVO
+tree /home/runner/work/JAVO
 
