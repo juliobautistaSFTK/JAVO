@@ -9,3 +9,4 @@ para ejecutar por la modificación cd parte de la rama
 se incorporó cambio de directorio en el yaml. 
 pwd para target y ls 
 /home/runner/work/JAVO/JAVO  
+/home/runner/work/JAVO/JAVO/Otropom/target
