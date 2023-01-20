@@ -31,9 +31,7 @@ jobs:
       - name: Step 3 - Have a GitHub Actions Build Maven Project
         run: |
            mvn -B package --file Otropom/pom.xml
-           pwd
-           find / -type d target
-           
+                    
         # run: mvn --batch-mode --update-snapshots verify
         # run: mvn install --file pom.xml
         # run: mvn --batch-mode --update-snapshots package
@@ -43,13 +41,13 @@ jobs:
 
       - name: Step 5 - What is the target folder?
         run: |
-          cd /home/runner/work/JAVO/JAVO/target
+          cd /home/runner/work/JAVO/JAVO/Otropom/target
           ls -a
       - name: Step 6 - Archive code coverage results
         uses: actions/upload-artifact@v2
         with:
           name: target
-          path: target
+          path: /home/runner/work/JAVO/JAVO/Otropom/target
 
       - 
         name: Set up QEMU
