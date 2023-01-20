@@ -30,7 +30,7 @@ jobs:
         
       - name: Step 3 - Have a GitHub Actions Build Maven Project
         run: |
-           mvn -B package --file pom.xml
+           mvn -B package --file Otropom/pom.xml
            pwd
            ls -l
            
@@ -43,7 +43,7 @@ jobs:
 
       - name: Step 5 - What is the target folder?
         run: |
-          cd target
+          cd /home/runner/work/JAVO/JAVO/target
           ls -a
       - name: Step 6 - Archive code coverage results
         uses: actions/upload-artifact@v2
