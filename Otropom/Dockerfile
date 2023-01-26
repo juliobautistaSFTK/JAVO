@@ -6,7 +6,7 @@ FROM alpine:3.10
 #COPY /home/runner/work/JAVO/JAVO/Otropom/target /target
 COPY Otropom/target /target
 
-COPY README.md /
+#COPY README.md /
 
 # Code file to execute when the docker container starts up (`entrypoint.sh`)
 # ENTRYPOINT ["/entrypoint.sh"]
