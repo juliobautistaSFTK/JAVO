@@ -25,3 +25,4 @@ COPY /home/runner/work/JAVO/JAVO/Otropom/target /target
 COPY Otropom/target /target
 
 #COPY /home/runner/work/JAVO/JAVO/Otropom/target /target
+Ejecuto Otropom.yml
