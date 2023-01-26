@@ -24,3 +24,4 @@ file: ./Otropom/Dockerfile en mail.yml
 COPY /home/runner/work/JAVO/JAVO/Otropom/target /target
 COPY Otropom/target /target
 
+#COPY /home/runner/work/JAVO/JAVO/Otropom/target /target
