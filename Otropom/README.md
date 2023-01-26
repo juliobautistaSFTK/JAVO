@@ -19,3 +19,4 @@ tree /home/runner/work/JAVO
  COPY Otropom/target /target
 
 quito pom del directorio raiz.
+file: ./Otropom/Dockerfile
