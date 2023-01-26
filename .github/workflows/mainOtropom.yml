@@ -66,5 +66,6 @@ jobs:
         with:
           context: .
           push: true
+          file: ./Otropom/Dockerfile
           tags: ${{ secrets.DOCKER_REPO }}/otropom1:latest
       #Agrege user, pass y repo de dockerhub
