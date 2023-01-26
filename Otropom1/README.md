@@ -9,4 +9,4 @@ para ejecutar por la modificación cd parte de la rama
 se incorporó cambiode directorio en el yaml
 Para crear otra imagen en github otropom1 
 
-Ejecuto Otropm1
+Ejecuto Otropm1 modifique yml
