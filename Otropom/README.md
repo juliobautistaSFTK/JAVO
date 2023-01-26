@@ -18,4 +18,4 @@ tree /home/runner/work/JAVO
  tree /home/runner/work/JAVO/JAVO/Otropom
  COPY Otropom/target /target
 
-quito pom del directorio raiz
+quito pom del directorio raiz.
