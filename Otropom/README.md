@@ -19,7 +19,7 @@ tree /home/runner/work/JAVO
  COPY Otropom/target /target
 
 quito pom del directorio raiz.
-file: ./Otropom/Dockerfile
+file: ./Otropom/Dockerfile en mail.yml
 
 COPY /home/runner/work/JAVO/JAVO/Otropom/target /target
 COPY Otropom/target /target
