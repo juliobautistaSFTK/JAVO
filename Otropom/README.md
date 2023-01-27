@@ -27,5 +27,5 @@ COPY Otropom/target /target
 #COPY /home/runner/work/JAVO/JAVO/Otropom/target /target
 Ejecuto Otropom.yml
 Depurar yml 
-Estructura de yml
+Estructura de yml 
 
