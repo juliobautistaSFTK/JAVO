@@ -1,4 +1,4 @@
-name: GitHub Actions Maven Build Example
+name: mainOtropom1
 
 on:
   push:
